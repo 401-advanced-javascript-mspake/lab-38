@@ -6,7 +6,7 @@
 ### Author: Morgana Spake  
   
 ### Links and Resources  
-* [submission PR](https://github.com/401-advanced-javascript-mspake/lab-38/compare/refactor?expand=1)  
+* [submission PR](https://github.com/401-advanced-javascript-mspake/lab-38/pull/1)  
   
 <!-- #### Documentation
 * [api docs](http://xyz.com) (API servers)
